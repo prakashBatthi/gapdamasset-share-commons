@@ -38,7 +38,7 @@
     <!-- B U I L D   D E F I N I T I O N                                        -->
     <!-- ====================================================================== -->
     <build>
-        <finalName>asset-share-commons.all-${project.version}</finalName>
+        <finalName>gapdamassetshare.all-${project.version}</finalName>
         <plugins>
             <!-- ====================================================================== -->
             <!-- V A U L T   P A C K A G E   P L U G I N S                              -->
