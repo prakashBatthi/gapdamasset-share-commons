@@ -29,7 +29,7 @@
     <!-- ====================================================================== -->
     <!-- P R O J E C T  D E S C R I P T I O N                                   -->
     <!-- ====================================================================== -->
-    <artifactId>assetshare.all</artifactId>
+    <artifactId>gapdamassetshare.all</artifactId>
     <packaging>content-package</packaging>
     <name>Asset Share Commons - All</name>
     <description>All package for Asset Share Commons</description>
